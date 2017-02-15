@@ -1,2 +1,3 @@
 # plottingFormantDynamics
-Little R code snippet for plotting vowel formant dynamics
+
+Little code snippet & sample datat for plotting vowel formant dynamics.
